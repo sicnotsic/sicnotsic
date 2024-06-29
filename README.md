@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sicnotsic
 - 👀 I’m interested in ... computer related stuff
-- 🌱 I’m currently learning ... programming
+- 🌱 I’m currently learning react, laravel and API's
 - 📫 Reach me on Discord ._.sic._.
 
 <!---
