@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sicnotsic
 - 👀 I’m interested in ... computer related stuff
 - 🌱 I’m currently learning ... programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... discord sic#1079
+- 📫 Reach me on Discord ._.sic._.
 
 <!---
 sicnotsic/sicnotsic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
